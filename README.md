@@ -14,6 +14,7 @@
 <h3 align="center">Aspiring Data Analyst from the Philippines </h3>
 
 :octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.
+
 :star2: I'm studying Computer Science at the National University - Manila
 
 ✨ I study: Java and Python
