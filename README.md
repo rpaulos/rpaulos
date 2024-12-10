@@ -6,3 +6,5 @@
 
 - :heart_eyes_cat: Currently taking up Harvard University's introduction to Python, CS50P
 - :sunny: Took CS50 and the introduction course to the Odin Project
+
+![Snake animation](https://raw.githubusercontent.com/rpaulos/rpaulos/output/github-contribution-grid-snake-dark.svg)
