@@ -17,7 +17,7 @@
 
 :star2: I'm studying Computer Science at the National University - Manila
 
-✨ I study: Java and Python
+:cherry_blossom: I study: Java and Python
 
 ## About me:
 - :maple_leaf: Fun fact: David Malan's enthusiasm got me into programming!
