@@ -25,7 +25,7 @@
 
 ## Language and Tools:
 <div align="left">
-  <code><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp" height="30" alt="java logo" /></code>
+  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WQTPaayGA37MbkwE-F96UAb6WRXNRUPnRA&s" height="30" alt="java logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></code>
   <img width="12" />
