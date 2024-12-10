@@ -9,7 +9,7 @@
 - :sunny: Took CS50 and the introduction course to the Odin Project
 -->
 
-- <h1 align="center">Hi, I'm Rae Paulos 👋 </h1>
+- <h1 align="center">Hi, I'm Rae 👋 </h1>
 <h3 align="center">Aspiring Data Analyst from the Philippines </h3>
 
 :octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.
