@@ -25,6 +25,7 @@
 - 💬 Ask me about `Programming with Java`
 
 ## Languages and Tools:
+<div align="left">
   <code><img src="https://static-00.iconduck.com/assets.00/applications-java-icon-512x506-4hip9vfb.png" height ="30" alt="java logo" /><code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
@@ -35,8 +36,9 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />
+</div>
 
-  <em><b>I'm a bit introverted vut I never pass on connecting with people. So if you want to connect or just say hi, I'd be over the moon! :D</em>
+  <em><b>I'm a bit introverted but I never pass on connecting with people. So if you want to connect or just say hi, I'd be over the moon! :D</b></em>
 
 
 
