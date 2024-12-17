@@ -36,6 +36,8 @@
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></code>
 </div>
 
+![rpaulos' GitHub stats](https://github-readme-stats.vercel.app/api?username=rpaulos&show_icons=true&theme=radical)
+
 <!--
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/rpaulos/rpaulos/output/github-contribution-grid-snake-dark.svg)
