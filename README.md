@@ -42,7 +42,7 @@
 -->
 
 ##
-<em = align="center" ><b>I'm a bit introverted but I never pass on connecting with people. So if you want to connect or just say hi, I'd be over the moon! :D</b></em>
+<em><b>I'm a bit introverted but I never pass on connecting with people. So if you want to connect or just say hi, I'd be over the moon! :D</b></em>
 
 
 
