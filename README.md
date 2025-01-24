@@ -20,7 +20,7 @@
 
 ## About me:
 - :maple_leaf: Fun fact: David Malan's enthusiasm got me into programming!
-- 📫 How to reach me: [Email](r.paulos.dev@gmail.com)
+- 📫 How to reach me: r.paulos.dev@gmail.com
 - 💬 Ask me about `Programming with Java`
 
 ## Language and Tools:
