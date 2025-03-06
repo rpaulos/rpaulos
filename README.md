@@ -35,7 +35,6 @@
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></code>
   <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logohttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netgen.co.za%2Fservices%2Fcustom-software-solutions%2Fsql-database%2F&psig=AOvVaw100PADOdbygCETEiRLbuL4&ust=1741355636619000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjC8_fN9YsDFQAAAAAdAAAAABAI" /></code>
 </div>
 
 <!--
