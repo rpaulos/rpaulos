@@ -4,7 +4,9 @@
 
 
 # 💫 About Me:
-:octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.<br><br>🌟 I'm studying Computer Science at the National University - Manila<br><br>🌸 I study: Java and Python
+:octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.<br>
+<br>🌟 I'm studying Computer Science at the National University - Manila<br>
+<br>🌸 I study: Java and Python
 
 
 ## 🌐 Socials:
