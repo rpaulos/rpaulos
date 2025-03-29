@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 :octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.<br>
-🌟 I'm studying Computer Science (Machine Learning) at the National University - Manila
+🌟 I'm studying Computer Science (Specialization in Machine Learning) at the National University - Manila
 🌸 I'm currently taking Harvard University's CS50P
 
 
