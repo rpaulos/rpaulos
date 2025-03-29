@@ -4,10 +4,8 @@
 
 # 💫 About Me:
 :octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.<br>
-🌟 I'm studying Computer Science (Specialization in Machine Learning) at the National University - Manila
-🌸 I'm currently taking Harvard University's CS50P
-
-
+🌟 I'm studying Computer Science (Specialization in Machine Learning) at the National University - Manila<br>
+🌸 I'm currently taking Harvard University's CS50P<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rae.paulos.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raesp_berry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rae-paulos-8969b5249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.paulos.dev@gmail.com) 
