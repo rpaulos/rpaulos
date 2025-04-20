@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Rae 👋 </h1>
 <h3 align="center">Aspiring Data Analyst from the Philippines </h3>
 
-
 # 💫 About Me:
 :octocat: I’m passionate about diving into the exciting world of data science and sharpening my programming skills.<br>
 🌟 I'm studying Computer Science (Specialization in Machine Learning) at the National University - Manila<br>
