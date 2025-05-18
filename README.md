@@ -38,4 +38,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=rpaulos&icon=1&color=3)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/rpaulos/rpaulos/blob/output/github-snake-dark.svg)
+
+
 Art by @vin_franci on Instagram
